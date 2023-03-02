@@ -76,3 +76,10 @@ footer {
 hr {
   border: 1px solid black;
 }
+
+.group{
+  display: flex;
+}
+.item{
+  flex: 2;
+}
