@@ -42,6 +42,11 @@ p {
   line-height: 1.5;
 }
 
+/*added font size 14px to portfolio descriptions*/
+article > div > section > p {
+  font-size: 14px;
+}
+
 /* Links */
 a:link {
   color: #d62828;
@@ -65,6 +70,10 @@ img {
 .image-circle {
   border: 2px solid #003049;
   border-radius: 50%;
+}
+  /*portfolio spacing*/
+.spacing{
+  margin: 5px;
 }
 
 /* Footer */
